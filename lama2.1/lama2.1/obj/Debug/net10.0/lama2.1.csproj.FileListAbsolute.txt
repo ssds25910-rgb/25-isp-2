@@ -1,0 +1,15 @@
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\bin\Debug\net10.0\lama2.1.exe
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\bin\Debug\net10.0\lama2.1.deps.json
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\bin\Debug\net10.0\lama2.1.runtimeconfig.json
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\bin\Debug\net10.0\lama2.1.dll
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\bin\Debug\net10.0\lama2.1.pdb
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\obj\Debug\net10.0\lama2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\obj\Debug\net10.0\lama2.1.AssemblyInfoInputs.cache
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\obj\Debug\net10.0\lama2.1.AssemblyInfo.cs
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\obj\Debug\net10.0\lama2.1.csproj.CoreCompileInputs.cache
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\obj\Debug\net10.0\lama2.1.dll
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\obj\Debug\net10.0\refint\lama2.1.dll
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\obj\Debug\net10.0\lama2.1.pdb
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\obj\Debug\net10.0\lama2.1.genruntimeconfig.cache
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\obj\Debug\net10.0\ref\lama2.1.dll
+C:\Users\Yarssan\source\repos\lama2.1\lama2.1\obj\Debug\net10.0\lama2.1.csproj.Up2Date
