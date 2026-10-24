@@ -1,0 +1,15 @@
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\bin\Debug\net10.0\lama3.4.exe
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\bin\Debug\net10.0\lama3.4.deps.json
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\bin\Debug\net10.0\lama3.4.runtimeconfig.json
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\bin\Debug\net10.0\lama3.4.dll
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\bin\Debug\net10.0\lama3.4.pdb
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\obj\Debug\net10.0\lama3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\obj\Debug\net10.0\lama3.4.AssemblyInfoInputs.cache
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\obj\Debug\net10.0\lama3.4.AssemblyInfo.cs
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\obj\Debug\net10.0\lama3.4.csproj.CoreCompileInputs.cache
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\obj\Debug\net10.0\lama3.4.dll
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\obj\Debug\net10.0\refint\lama3.4.dll
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\obj\Debug\net10.0\lama3.4.pdb
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\obj\Debug\net10.0\lama3.4.genruntimeconfig.cache
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\obj\Debug\net10.0\ref\lama3.4.dll
+C:\Users\Yarssan\Desktop\lama3.4\lama3.4\obj\Debug\net10.0\lama3.4.csproj.Up2Date
