@@ -1,0 +1,15 @@
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\bin\Debug\net10.0\laba6.1.exe
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\bin\Debug\net10.0\laba6.1.deps.json
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\bin\Debug\net10.0\laba6.1.runtimeconfig.json
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\bin\Debug\net10.0\laba6.1.dll
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\bin\Debug\net10.0\laba6.1.pdb
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\obj\Debug\net10.0\laba6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\obj\Debug\net10.0\laba6.1.AssemblyInfoInputs.cache
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\obj\Debug\net10.0\laba6.1.AssemblyInfo.cs
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\obj\Debug\net10.0\laba6.1.csproj.CoreCompileInputs.cache
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\obj\Debug\net10.0\laba6.1.dll
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\obj\Debug\net10.0\refint\laba6.1.dll
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\obj\Debug\net10.0\laba6.1.pdb
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\obj\Debug\net10.0\laba6.1.genruntimeconfig.cache
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\obj\Debug\net10.0\ref\laba6.1.dll
+C:\Users\Yarssan\source\repos\laba6.1\laba6.1\obj\Debug\net10.0\laba6.1.csproj.Up2Date
