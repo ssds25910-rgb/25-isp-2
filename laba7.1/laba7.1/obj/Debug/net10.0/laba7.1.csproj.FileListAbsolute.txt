@@ -1,0 +1,15 @@
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\obj\Debug\net10.0\laba7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\obj\Debug\net10.0\laba7.1.AssemblyInfoInputs.cache
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\obj\Debug\net10.0\laba7.1.AssemblyInfo.cs
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\obj\Debug\net10.0\laba7.1.csproj.CoreCompileInputs.cache
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\bin\Debug\net10.0\laba7.1.exe
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\bin\Debug\net10.0\laba7.1.deps.json
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\bin\Debug\net10.0\laba7.1.runtimeconfig.json
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\bin\Debug\net10.0\laba7.1.dll
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\bin\Debug\net10.0\laba7.1.pdb
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\obj\Debug\net10.0\laba7.1.dll
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\obj\Debug\net10.0\refint\laba7.1.dll
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\obj\Debug\net10.0\laba7.1.pdb
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\obj\Debug\net10.0\laba7.1.genruntimeconfig.cache
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\obj\Debug\net10.0\ref\laba7.1.dll
+C:\Users\Yarssan\Desktop\laba7.1\laba7.1\obj\Debug\net10.0\laba7.1.csproj.Up2Date
